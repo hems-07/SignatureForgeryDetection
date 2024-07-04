@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('D:/CEG/Machine Learning/Project/Signature_Forgery_Detection/frontend/src/assets/Detect Signature Forgery.png'); /* Specify the path to your image */
+    background-image: url('./assets/Detect Signature Forgery.png'); /* Specify the path to your image */
     background-size: cover !important;
     background-position: center;
     background-attachment: fixed; /* Ensure the background remains fixed */
